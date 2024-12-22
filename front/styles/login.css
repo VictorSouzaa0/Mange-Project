@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: bold;
+}
+
+.info-bar{
+    padding: 0.05em;
+    display: flex;
+    justify-content: right;
+    background-color: #FC0404;
+}
+a{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    text-decoration: none;
+}
